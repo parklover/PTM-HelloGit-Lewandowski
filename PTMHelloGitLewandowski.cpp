@@ -11,6 +11,7 @@ int main()
 
 	cout << "Hello Git!"<<endl;
 	cout << "ZMIANA KURWO" << endl;
+	cout << "ZMIANA 2" << endl;
     return 0;
 }
 
