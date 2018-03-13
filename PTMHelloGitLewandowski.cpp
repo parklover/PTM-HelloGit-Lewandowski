@@ -10,8 +10,8 @@ int main()
 {
 
 	cout << "Hello Git!"<<endl;
-	cout << "ZMIANA KURWO" << endl;
-	cout << "ZMIANA 2" << endl;
+	cout << "Ja Slawus jestem autorem tego swietnego programu" << endl;
+	
     return 0;
 }
 
